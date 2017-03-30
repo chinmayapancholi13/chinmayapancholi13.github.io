@@ -4,7 +4,6 @@ title:            Me
 locale:           en_IN
 url:
 collections:
-    - CMU
 
 
 # Jekyll configuration
@@ -30,9 +29,9 @@ kramdown:
 owner:
   name: Chinmaya Pancholi
   avatar: #https://avatars0.githubusercontent.com/u/6918975?v=3&s=460
-  bio: "Me"
+  bio: #"Me"
   #email:
-  disqus-shortname: aries-will-blog
+  disqus-shortname: #aries-will-blog
   twitter: #username
   facebook: #vats.shivam
   google:
@@ -44,7 +43,7 @@ owner:
   bing-verify:
   github: chinmayapancholi13
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #shivamvats
+  linkedin: #chinmayapancholi13
   xing: #username
   instagram: #username
   lastfm: #username
