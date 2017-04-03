@@ -10,7 +10,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I am a 4th year undergraduate student of Computer Science and Engineering at Indian
+I am a 4th year undergraduate student in the Department of Computer Science and Engineering at Indian
 Institute of Technology, Kharagapur. I am interested in the domains of Machine Learning,
 Naturla Language Processing and Algorithm Design.
 
