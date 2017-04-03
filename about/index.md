@@ -12,7 +12,7 @@ image:
 
 I am a 4th year undergraduate student in the Department of Computer Science and Engineering at Indian
 Institute of Technology, Kharagapur. I am interested in the domains of Machine Learning,
-Naturla Language Processing and Algorithm Design.
+Natural Language Processing and Algorithm Design.
 
 ### Contact me
 
