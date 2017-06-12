@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 1
+title: Working with Gensim
 tags: [gsoc, python, programming]
 comments: true
 image:
