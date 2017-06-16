@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 2
+title: Week 3
 tags: [gsoc, python, programming]
 comments: true
 image:
