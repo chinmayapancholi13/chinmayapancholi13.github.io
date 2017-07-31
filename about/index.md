@@ -10,9 +10,10 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I am a 4th year undergraduate student in the Department of Computer Science and Engineering at Indian
-Institute of Technology, Kharagpur. I am interested in the domains of Machine Learning,
-Natural Language Processing and Algorithm Design.
+I am a final year undergraduate student in the Department of Computer Science and Engineering at Indian
+Institute of Technology, Kharagpur. My academic intersts include Machine Learning, Natural Language Processing 
+and Algorithm Design.
+Besides this, I try to follow the latest developments in the world of politics and Cricket.
 
 ### Contact me
 

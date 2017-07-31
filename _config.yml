@@ -9,7 +9,6 @@ url:
 
 # Jekyll configuration
 
-theme: jekyll-theme-cayman
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
