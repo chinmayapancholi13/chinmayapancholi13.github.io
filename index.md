@@ -1,5 +1,5 @@
 ---
 layout: home
 image:
-  feature: gsoc.png
+  feature: gsoc.jpeg
 ---
