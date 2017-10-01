@@ -4,7 +4,7 @@ title: Week 9 and 10
 tags: [gsoc, python, programming]
 comments: true
 image:
- feature: gsoc.png
+ feature: gsoc.jpeg
 ---
 
 In the last two weeks, I worked mainly on updating and adding sklearn API for models in Gensim and updating tests in shorttext. I was not able to add a blog in the previous week since my college semester has now commenced and I was travelling at the time.

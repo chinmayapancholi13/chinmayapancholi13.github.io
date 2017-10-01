@@ -4,7 +4,7 @@ title: Working with Gensim
 tags: [gsoc, python, programming]
 comments: true
 image:
- feature: gsoc.png
+ feature: gsoc.jpeg
 ---
 
 This summer, I would be contributing to the library [Gensim](http://radimrehurek.com/gensim/) as part of Google Summer of Code 2017 working with the organization [NumFOCUS](https://www.numfocus.org/).

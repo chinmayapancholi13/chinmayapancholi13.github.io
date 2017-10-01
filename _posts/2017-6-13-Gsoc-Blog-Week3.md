@@ -4,7 +4,7 @@ title: Week 3
 tags: [gsoc, python, programming]
 comments: true
 image:
- feature: gsoc.png
+ feature: gsoc.jpeg
 ---
 
 This week, I worked on developing scikit-learn wrappers for Gensim's Random Projections ([PR #1395](https://github.com/RaRe-Technologies/gensim/pull/1395)), LDASeq ([PR #1405](https://github.com/RaRe-Technologies/gensim/pull/1405)) and Author Topic ([PR #1403](https://github.com/RaRe-Technologies/gensim/pull/1403)) models. I also refactored the existing scikit-learn wrappers for LDA and LSI models in [PR #1398](https://github.com/RaRe-Technologies/gensim/pull/1398) by incorporating changes such as using composite design pattern, removing unnecessary attributes and updating the associated unit-tests.

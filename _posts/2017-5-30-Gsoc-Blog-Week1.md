@@ -4,7 +4,7 @@ title: Week 1
 tags: [gsoc, python, programming]
 comments: true
 image:
- feature: gsoc.png
+ feature: gsoc.jpeg
 ---
 
 This is my first post as part of Google Summer of Code 2017 working with [Gensim](radimrehurek.com/gensim/). I would be working on the project **‘Gensim integration with scikit-learn and Keras‘** this summer.

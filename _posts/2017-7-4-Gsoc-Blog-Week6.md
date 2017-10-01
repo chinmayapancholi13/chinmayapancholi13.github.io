@@ -4,7 +4,7 @@ title: Week 6
 tags: [gsoc, python, programming]
 comments: true
 image:
- feature: gsoc.png
+ feature: gsoc.jpeg
 ---
 
 During the previous week, I mainly worked on [PR #1201](https://github.com/RaRe-Technologies/gensim/pull/1201), [PR #1437](https://github.com/RaRe-Technologies/gensim/pull/1437) and [PR #1445](https://github.com/RaRe-Technologies/gensim/pull/1445).

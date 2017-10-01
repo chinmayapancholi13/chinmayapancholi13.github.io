@@ -4,7 +4,7 @@ title: Week 5
 tags: [gsoc, python, programming]
 comments: true
 image:
- feature: gsoc.png
+ feature: gsoc.jpeg
 ---
 
 This week, I worked on creating new scikit-learn wrappers for Gensim models. In addition to that, I worked further on older unmerged PRs like [PR #1201](https://github.com/RaRe-Technologies/gensim/pull/1201) and [PR #7](https://github.com/stephenhky/PyShortTextCategorization/pull/7).

@@ -4,7 +4,7 @@ title: Week 4
 tags: [gsoc, python, programming]
 comments: true
 image:
- feature: gsoc.png
+ feature: gsoc.jpeg
 ---
 
 During the last week, I continued working on creating scikit-learn wrappers for Gensim’s LDA ([PR #1398](https://github.com/RaRe-Technologies/gensim/pull/1398)), LSI ([PR #1398](https://github.com/RaRe-Technologies/gensim/pull/1398)), RandomProjections ([PR #1395](https://github.com/RaRe-Technologies/gensim/pull/1395)) and LDASeq ([PR #1405](https://github.com/RaRe-Technologies/gensim/pull/1405)) models. After making several changes including updating wrapper class-methods and adding unit-tests for features like model persistence, integration with sklearn’s Pipeline, incorporating NotFittedError as well as fixing some of the older unit-tests, these PRs have now been accepted and merged. 🙂 I also created [PR #1428](https://github.com/RaRe-Technologies/gensim/pull/1428), which updates the IPython notebook sklearn_wrapper.ipynb explaining the usage of sklearn wrappers for the four Gensim models mentioned above.

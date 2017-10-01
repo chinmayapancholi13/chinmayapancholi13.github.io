@@ -4,7 +4,7 @@ title: Hey there!
 tags: [gsoc, python, programming, maths]
 comments: true
 image:
- feature: gsoc.png
+ feature: gsoc.jpeg
 ---
 
 I am applying for Google Summer of Code, 2017. It is an annual program sponsored

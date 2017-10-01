@@ -4,7 +4,7 @@ title: Week 8
 tags: [gsoc, python, programming]
 comments: true
 image:
- feature: gsoc.png
+ feature: gsoc.jpeg
 ---
 
 During the last week, I continued to work on my PRs in both shorttext and Gensim repositories.

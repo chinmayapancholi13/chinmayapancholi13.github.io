@@ -4,7 +4,7 @@ title: Week 11 and 12
 tags: [gsoc, python, programming]
 comments: true
 image:
- feature: gsoc.png
+ feature: gsoc.jpeg
 ---
 
 In the last two weeks, I had been working primarily on adding a Python implementation of Facebook Research's *Fasttext* model to Gensim. I was also simultaneously working on completing the tasks left for adding scikit-learn API for Gensim models.

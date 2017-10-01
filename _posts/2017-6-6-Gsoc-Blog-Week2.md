@@ -4,7 +4,7 @@ title: Week 2
 tags: [gsoc, python, programming]
 comments: true
 image:
- feature: gsoc.png
+ feature: gsoc.jpeg
 ---
 
 We are into the second week of GSoC coding period and with regular commits and daily meetings, things seem to be in flow now. I have started working on the integration of Gensim with scikit-learn which would be the first phase of my GSoC work.
