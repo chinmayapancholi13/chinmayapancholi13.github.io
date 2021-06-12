@@ -10,7 +10,9 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I currently work as a Low Latency Software Developer at Tower Research Capital. In April 2018, I graduated from Indian Institute of Technology Kharagpur where I was enrolled in its BTech. and MTech. dual degree program. Also, I try to keep up with the latest developments in the world of politics and Cricket.
+This is a (now defunct) blog about my Google Summer of Code project. If you're looking for my latest website, [this](https://chinmayapancholi13.wixsite.com/cpancholi) is what you want.
+
+In April 2018, I graduated from Indian Institute of Technology Kharagpur where I was enrolled in its B.Tech and M.Tech dual-degree program. Also, I try to keep up with the latest developments in the world of Cricket and politics.
 
 During the summer of 2017, I worked with the topic-modelling and information-extraction library [Gensim](http://radimrehurek.com/gensim/) as part of the Google Summer of Code program. My project had two parts: integrating Gensim with the libraries scikit-learn & Keras and adding a Python implementation of Facebook Research's fastText model to Gensim. A detailed summary of the work that I did for GSoC can be found [here](https://rare-technologies.com/chinmayas-gsoc-2017-summary-integration-with-sklearn-keras-and-implementing-fasttext/).
 
